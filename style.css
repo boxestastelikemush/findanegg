@@ -1,10 +1,9 @@
-
 body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
+    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+    margin: 2em;
+    background-color: #32a852
 }
 
 h1 {
-  font-style: bold;
-  color: #008800;
+    font-style: bold;
 }
