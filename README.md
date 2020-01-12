@@ -1,2 +1,3 @@
 # findanegg
-this my wedsite ok
+My personal space on the web.
+
